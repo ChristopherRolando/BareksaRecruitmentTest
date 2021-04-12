@@ -1,0 +1,14 @@
+.row{
+    display:inline-flex;
+    flex-direction: row;
+    align-items: stretch;
+    margin-top:30px;
+}
+.column {
+    padding: .78571429em .18571429em !important;
+}
+@media (max-width: 920px) {
+    .row{
+        display: block;
+    }
+}

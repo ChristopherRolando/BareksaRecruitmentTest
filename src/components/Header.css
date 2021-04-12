@@ -1,0 +1,23 @@
+.bell {
+    font-size:24px !important;
+    margin: auto !important;
+}
+.setting {
+    font-size:24px !important;
+    margin: auto !important;
+}
+.main {
+    border-color:white !important;
+}
+.menu {
+    margin-top:10px!important;
+}
+.avatar {
+    margin-left:20px;
+}
+.right-menu {
+    margin: 0 10px;
+}
+.icon-menu {
+    margin: 5px 10px;
+}

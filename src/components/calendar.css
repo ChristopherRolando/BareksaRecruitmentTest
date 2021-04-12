@@ -1,0 +1,17 @@
+  .button {
+    border-radius:4px;
+    box-sizing: border-box;
+    border:1px solid;
+    margin: 0 15px;
+    width:30%;
+  }
+  .filter {
+    background: #82C341;
+  }
+  .cancel {
+    border: #E5E5E5;
+  }
+  .wrap-button {
+    text-align: center;
+  }
+
